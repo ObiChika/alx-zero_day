@@ -1,1 +1,1 @@
-Arsenal cool 0x03.git
+My first readme updated copy
