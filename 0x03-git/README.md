@@ -1,1 +1,1 @@
-My second readme cool
+Readme cool
